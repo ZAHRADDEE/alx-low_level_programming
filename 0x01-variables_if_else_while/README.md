@@ -1,1 +1,1 @@
-This program will assign a random number to the variable
+ 2-print_alphabet.c
